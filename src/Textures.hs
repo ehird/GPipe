@@ -4,7 +4,7 @@
 -- Copyright   :  Tobias Bexelius
 -- License     :  BSD3
 --
--- Maintainer  :  Tobias BexeliusBSD3
+-- Maintainer  :  Tobias Bexelius
 -- Stability   :  Experimental
 -- Portability :  Portable
 --
